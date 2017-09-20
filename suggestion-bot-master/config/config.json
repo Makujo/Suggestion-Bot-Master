@@ -1,0 +1,15 @@
+{
+  "dbUrl":"mongodb://host/database-name",
+  "token": "discord bot token",
+  "erisOptions": {
+    "fetchAllUsers": true
+  },
+  "statusName": "Skimming Suggestions",
+  "prefix": "null",
+  "useMentionPrefix": true, //Allow Mentions
+  "infoImageUrl": "https://pbs.twimg.com/profile_images/588685547876421632/p3UErTSr.jpg", //A nice image Url
+  "suggestionChannel":"suggestion-listing", //channel to post submitted suggestions in
+  "suggestionMod":"SuggestionMod", //id of role that is allowed to moderate submissions
+  "name":"Null's Suggestion Bo", //Name that shows in the prefix nya command
+  "infoDescription":"Hey, Hey, stop staring, the admins will catch you." // Description that shows in the prefix nya command
+}
